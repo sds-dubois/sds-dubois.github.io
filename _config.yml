@@ -2,7 +2,7 @@
 # Site settings
 
 url: "http://sds-dubois.github.io"
-baseurl: /sdubois
+# baseurl: /sdubois
 google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
 #############
