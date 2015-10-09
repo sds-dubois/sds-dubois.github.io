@@ -12,7 +12,7 @@ google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 author: "Sebastien Dubois"
 lang: "en"
 title: "Sebastien Dubois"
-favicon: "/img/favicon.ico"
+favicon: "/img/ico.ico"
 description: "Personal website of Sebastien Dubois."
 keywords: "sebastien, dubois, stanford, polytechnique"
 
@@ -21,7 +21,7 @@ keywords: "sebastien, dubois, stanford, polytechnique"
 ################
 
 # black-favicon: "/img/black-lab-glass.ico"
-background-img: "../img/SF.jpg"
+background-img: "../img/wall3.jpg"
 me-img: "/img/my_picture.jpg"
 
 ##############################
