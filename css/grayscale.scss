@@ -15,7 +15,7 @@ body {
     height: 100%;
     font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: $light;
-    background-color: #FFF8DC /*#FAEBD7*/;
+    background-color: #F0FFFF /* #FFF8DC #FAEBD7*/;
 }
 
 html {
@@ -133,7 +133,7 @@ ol {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: $dark;
+        background-color: #B0C4DE;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -324,8 +324,8 @@ ul.social-buttons li a {
     font-size: 20px;
     line-height: 40px;
     outline: 0;
-    /* color: #fff; */
-    background-color: #222;
+    color: #F0FFFF;
+    background-color: $light;
 
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
