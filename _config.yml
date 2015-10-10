@@ -21,8 +21,8 @@ keywords: "sebastien, dubois, stanford, polytechnique"
 ################
 
 # black-favicon: "/img/black-lab-glass.ico"
-background-img: "../img/wall3.jpg"
-me-img: "/img/my_picture.jpg"
+background-img: "../img/wall4.jpg"
+me-img: "/img/my_picture3.jpg"
 
 ##############################
 # Dynamic Text on the header #
@@ -85,6 +85,8 @@ social:
   - title: "linkedin"
     url: "https://www.linkedin.com/in/sebdubois"
   - title: "github"
+    url: "https://github.com/sds-dubois"
+  - title: "envelope"
     url: "https://github.com/sds-dubois"
   # - title: "rss"
   #   url: "/feed.xml"
