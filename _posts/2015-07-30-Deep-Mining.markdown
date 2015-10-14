@@ -7,7 +7,7 @@ I was a visiting student at MIT and worked on a project that we called **Deep Mi
 *See below for more details on that.*
 
 Here is a pipeline example for the [handwritten digit recognition problem](http://yann.lecun.com/exdb/mnist/) :
-<center><img src="{{ site.url}}/img/projects/DeepMining_workflow2.png"></img></center>   
+<center><img src="https://sds-dubois.github.io/img/projects/DeepMining_workflow2.png"></img></center>   
 <!-- ![Fig](/img/projects/DeepMining_workflow2.png)-->
 we can see that there are some hyper-parameters to tune, and every data scientist knows it's usually a painful task. The software I designed handle this by **testing iteratively, and smartly, some hyper-parameters in order to find as quickly as possible the best ones to achieve the best classification accuracy a pipeline can offer.** 
 
