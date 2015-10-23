@@ -119,7 +119,7 @@ social:
 
 pages_list:
   About: 'about'
-  CV: 'resume'
+  Resume: 'resume'
   Projects: 'projects'
   Career: 'career'
   Contact: 'contact'
