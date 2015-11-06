@@ -50,7 +50,7 @@ paginate: 5
 fb-share: False
 twitter-share: False
 reddit-share: False
-disqus-shortname: "sdubois"
+disqus-shortname: False
 
 ###############
 # Life Events #
