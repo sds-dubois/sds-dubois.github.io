@@ -2,6 +2,7 @@
 layout: post
 section-type: post
 title: Deep Mining
+post-preview: I was a visiting student at MIT and worked on a project that we called **Deep Mining**. The goal was to automatically find the best hyper-parameters for Machine Learning pipelines, so in other words, to **mine pipelines**, and that's where the name comes from. While working on this project, I mainly focused on Bayesian optimization methods and on Gaussian Process-based regression. In particular, I developed a new algorithm called **non-parametric Gaussian Copula Process** to better model the performances of a pipeline given its hyper-parameters.
 ---
 I was a visiting student at MIT and worked on a project that we called **Deep Mining**. The goal was to automatically find the best hyper-parameters for Machine Learning pipelines, so in other words, to **mine pipelines**, and that's where the name comes from. While working on this project, I mainly focused on Bayesian optimization methods and on Gaussian Process-based regression. In particular, I developed a new algorithm called **non-parametric Gaussian Copula Process** to better model the performances of a pipeline given its hyper-parameters. *See more details below.*
 
