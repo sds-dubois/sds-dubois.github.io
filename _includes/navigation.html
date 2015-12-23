@@ -48,6 +48,10 @@
                       <li>
                         <a class="page-scroll" href="{{site.baseurl}}/blog/index.html"> {{ p[0] }} </a>
                       </li>
+                    {% elsif p[0] == "Resume" %}
+                      <li>
+                        <a class="page-scroll" href="{{ site.url }}/downloads/CV.pdf"> {{ p[0] }} </a>
+                      </li>
                     {% else %}
                       <li>
                         <a class="page-scroll" href="{{site.baseurl}}/index.html#{{ p[1] }}"> {{ p[0] }} </a>
