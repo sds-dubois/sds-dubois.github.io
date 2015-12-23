@@ -4,7 +4,7 @@ section-type: post
 title: Analyzing Daily Expenses
 post-preview: ExpenseAnalyzer is a personal project on which I'm currently working. My goal is to build a simple software to analyze my daily expenses&#58; understand how I spend my money, how I can/should change my habits, and check for mistakes in my transactions.
 ---
-[ExpenseAnalyzer](https://github.com/sds-dubois/ExpenseAnalyzer) is a personal project on which I'm currently working. My goal is to build a simple software to analyze my daily expenses: understand how I spend my money, how I can/should change my habits, and check for mistakes in my transactions.  
+**[ExpenseAnalyzer](https://github.com/sds-dubois/ExpenseAnalyzer)** is a personal project on which I'm currently working. My goal is to build a simple software to analyze my daily expenses: understand how I spend my money, how I can/should change my habits, and check for mistakes in my transactions.  
 
 For now, I start with an Excel file built from the downloads of my transaction history. Besides the *Data*, *Amount*, and *Description* fields provided by the banks, I added two columns: *Labels* and *Comments*. The first one can contain words like 'Restaurant' or 'Clothing', while the latter could be 'Trip to New York', etc... I started to complete those two new fields by hand, but one of the next things I plan to do is to automate this task.
 <center><img src="https://sds-dubois.github.io/img/projects/ExpenseAnalyzer_Data.png"></img></center>  
