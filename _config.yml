@@ -57,9 +57,12 @@ disqus-shortname: False
 ###############
 
 events:
+  - image: "/img/career/ta.jpeg"
+    date: "June 2016 - August 2016"
+    description: "Software Engineer Intern"
   - image: "/img/career/SU2.jpg"
     date: "Sept. 2015 - April 2017"
-    description: "Stanford University - MS in Data Science at ICME"
+    description: "Stanford University -      MS in Data Science at ICME and research assistant at BMIR"
   - image: "/img/career/mit2.jpg"
     date: "March 2015 - July 2015"
     description: "CSAIL, MIT - Research Internship at Alfa Group"
