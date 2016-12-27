@@ -24,4 +24,4 @@ We tested our algorithms against the [mountain-car benchmark from OpenAI Gym](ht
 general improvement in both speed and performance.
 [Our code](https://github.com/GuillaumeGenthial/Q-transfer) is available on Github and the full report is **[here](http://bit.do/transferRL)**. 
 
-<center><img src="https://sds-dubois.github.io/img/projects/TransferRl-Env.png"></img></center>  
+<center><img src="https://sds-dubois.github.io/img/projects/TransferRl-Env.png"></center>  
