@@ -15,11 +15,20 @@
         <div class="col-lg-8 col-lg-offset-2">
 
         {{ page.content | markdownify }}
-
+        
+        <table>
         {% for post in paginator.posts %}
-          <h4 align="left"><strong>{{ post.date | date_to_string }}</strong> <small>. {{ post.category }} .</small> <a href="{{site.baseurl}}{{post.url}}"> <strong>{{ post.title }} </strong> </a> <!-- <small><a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small> --></h4>
+        <tr>
+          <td><h4 align="right"><strong>{{ post.date | date_to_string }}</strong></h4>
+          </td><td>
+          <h4 align="left">&nbsp;&nbsp;&nbsp;<a href="{{site.baseurl}}{{post.url}}"><strong >{{ post.title }} </strong> </a></h4> </td>
+        </tr>
+        <!--<tr>-->
+        <!--<td></td>-->
+        <!--<td><div align="justify">{{ post.post-preview | markdownify }} </div></td>-->
+        <!--</tr>-->
         {% endfor %}
-
+        </table>
         {% include pagination.html %}
 
         </div>
