@@ -121,6 +121,7 @@
 
 .timeline .timeline-heading h4 {
     margin-top: 0;
+    margin-bottom: 20px;
     color: inherit;
 }
 
@@ -128,11 +129,16 @@
     text-transform: none;
 }
 
-.timeline .timeline-body>p,
+.timeline .timeline-body>p {
+    font-size: 19px
+}
 .timeline .timeline-body>ul {
     margin-bottom: 0;
 }
-
+.timeline .timeline-location>p {
+    margin-bottom: 10px;
+    font-style: italic;
+}
 @media(min-width:768px) {
     .timeline:before {
         left: 50%;

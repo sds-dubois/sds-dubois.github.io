@@ -25,6 +25,9 @@
                       <div class="timeline-heading">
                           <h4>{{ event.date }}</h4>
                       </div>
+                      <div class="timeline-location">
+                          {{ event.location | markdownify }}
+                      </div>
                       <div class="timeline-body">
                           {{ event.description | markdownify }}
                       </div>
