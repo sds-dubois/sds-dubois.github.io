@@ -9,13 +9,14 @@
 
         {% assign post = site.posts.first %}
         <h4> <strong> {{ post.date | date_to_string }} </strong>
-          <small>. {{ post.category }} .</small>
+          <!--<small>. {{ post.category }} .</small>-->
           <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
           <!-- <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small> -->
         </h4>
 
         {{ post.post-preview | strip_html | markdownify }}
 
+        <a href="{{site.baseurl}}{{ post.url }}"><h4><strong>Read more</strong></h4></a>
         <a href="{{site.baseurl}}/blog/index.html"><h4><strong>View more projects</strong></h4></a>
 
       </div>
