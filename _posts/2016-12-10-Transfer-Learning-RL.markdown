@@ -2,6 +2,7 @@
 layout: post
 section-type: post
 title: Transfer Learning in Reinforcement Learning
+featured: false
 post-preview: This project addresses the challenge of knowledge transfer in Reinforcement Learning. We focused on Q-learning with global approximation, and studied methods to leverage access to simple source tasks in order to later tackle a target task. Benefits of such transfer include improved initial or asymptotic performance, reduced learning time...
 ---
 I worked on this project with [Guillaume Genthial](https://fr.linkedin.com/in/guillaumegenthial/en) for my

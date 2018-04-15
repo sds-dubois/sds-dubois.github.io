@@ -14,15 +14,15 @@ lang: "en"
 title: "Sebastien Dubois"
 favicon: "/img/ico.ico"
 description: "Personal website of Sebastien Dubois."
-keywords: "sebastien, dubois, stanford, polytechnique"
+keywords: "sebastien, dubois, stanford, polytechnique, mit"
 
 ################
 # Intro layout #
 ################
 
 # black-favicon: "/img/black-lab-glass.ico"
-background-img: "../img/wall4.jpg"
-me-img: "/img/my_picture3.jpg"
+background-img: "../img/background.jpg"
+me-img: "/img/my_picture.png"
 
 ##############################
 # Dynamic Text on the header #
@@ -92,25 +92,22 @@ events:
 # Contact layout #
 ##################
 
-email: "sdubois@stanford.edu"
+email: "sdubois@alumni.stanford.edu"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  # - title: "twitter"
-  #   url: "http://twitter.com/"
-  # - title: "youtube"
-  #   url: "http://youtube.com/"
   - title: "linkedin"
     url: "http://bit.do/SebastienDubois"
   #  url: "https://www.linkedin.com/in/sebdubois"
   - title: "github"
     url: "http://bit.do/sdubois_git"
   #  url: "https://github.com/sds-dubois"
+  - title: "twitter"
+    url: "https://twitter.com/_sdubois"
   - title: "envelope"
-  #  url: "https://github.com/sds-dubois"
   # - title: "rss"
   #   url: "/feed.xml"
 

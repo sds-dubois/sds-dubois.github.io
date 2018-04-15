@@ -2,6 +2,7 @@
 layout: post
 section-type: post
 title: Distributed Lasso
+featured: false
 post-preview: Studied distributed algorithms to solve L1-regularized linear regression (Lasso) and implemented a distributed version of Least Angle Regression (LARS) in Spark, which provides exact solution (hence guarantees sparsity in the coefficients) while computing the whole coefficient path.
 ---
 I worked on this project with [Sebastien Levy](https://fr.linkedin.com/in/sebastien-levy-59826aa0) 

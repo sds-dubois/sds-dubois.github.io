@@ -2,6 +2,7 @@
 layout: post
 section-type: post
 title: Face Recognition
+featured: false
 post-preview: I worked with Alexandre Sablayrolles on a Face Recognition project for a Computer Vision course at Ecole Polytechnique. Our goal was to download a lot of pictures from Google Image of famous people and use them to train a model capable to identify those people on new images. As this class was dealing with computer vision, the main focus of the project was on image processing rather than machine learning tools.
 ---
 I worked with [Alexandre Sablayrolles](https://github.com/alexandresablayrolles) on a **[Face Recognition project](https://github.com/sds-dubois/Face-Recognition)** for a Computer Vision course at Ecole Polytechnique. Our goal was to download a lot of pictures from Google Image of famous people and use them to train a model capable to identify those people on new images. As this class was dealing with computer vision, the main focus of the project was on image processing rather than machine learning tools. In particular, there are several state-of-the-art Deep Learning methods to classify faces (see eg. [here](http://arxiv.org/pdf/1504.02351v1.pdf) and [here](https://research.facebook.com/publications/480567225376225/deepface-closing-the-gap-to-human-level-performance-in-face-verification/)) but our goal was to use only a simple machine learning pipeline, to better approach the structure of images. That's why the classification accuracies we get are not so important but should better be compared between methods to evaluate each approach.  

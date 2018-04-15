@@ -2,6 +2,7 @@
 layout: post
 section-type: post
 title: Analyzing Daily Expenses
+featured: false
 post-preview: With **[ExpenseAnalyzer](https://github.com/sds-dubois/ExpenseAnalyzer)**, my goal is to build a simple software to analyze my daily expenses&#58; understand how I spend my money, how I can/should change my habits, and check for mistakes in my transactions.
 ---
 **[ExpenseAnalyzer](https://github.com/sds-dubois/ExpenseAnalyzer)** is a personal project on which I'm currently working. My goal is to build a simple software to analyze my daily expenses: understand how I spend my money, how I can/should change my habits, and check for mistakes in my transactions.  

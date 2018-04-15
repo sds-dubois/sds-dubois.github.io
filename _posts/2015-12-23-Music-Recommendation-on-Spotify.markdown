@@ -2,6 +2,7 @@
 layout: post
 section-type: post
 title: Music Recommendation on Spotify
+featured: false
 post-preview: I am using [Echo Nest and Spotify APIs](http://static.echonest.com/enspex/) to build my own recommender system directly on Spotify. Thanks to Echo Nest, I get all the information I need on the music I can listen (eg. which artists are similar to the artists I like), while Spotify is a really nice player. Even though there is still a lot to do, I've now a usable **[Music Manager](https://github.com/sds-dubois/MusicManager)** that can automatically find music I'm likely to appreciate, add it to one of my Spotify playlists, and keep track of my tastes when I listen to its suggestions.
 ---
 **[MusicManager](https://github.com/sds-dubois/MusicManager)** is an other personal project on which I'm currently working. I am using [Echo Nest and Spotify APIs](http://static.echonest.com/enspex/) to build my own recommender system directly on Spotify. Thanks to Echo Nest, I get all the information I need on the music I can listen (eg. which artists are similar to the artists I like), while Spotify is a really nice player. Even though there is still a lot to do, I've now a usable Music Manager that can automatically find music I'm likely to appreciate, add it to one of my Spotify playlists, and keep track of my tastes when I listen to its suggestions.  

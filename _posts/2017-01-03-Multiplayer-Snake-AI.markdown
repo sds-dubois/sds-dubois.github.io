@@ -2,6 +2,7 @@
 layout: post
 section-type: post
 title: AI for a multiplayer snake game
+featured: true
 post-preview: The goal of this project was to implement AI-based strategies for a tailor-made game of multiplayer snake, inspired by the popular online game slither.io. The main motivation was to assess the relative performance of adversarial strategies versus reinforcement learning and compare snake behaviors inherent to each. This game setting comprises a number of challenges, such as simultaneous player actions, multiple opponents and large state spaces. Most of all, there is no single conspicuous objective, making it difficult to predict the opponents' best moves in search trees and makes RL policies very dependent on the strategies used for training.
 ---
 I worked on this project with [Sebastien Levy](https://fr.linkedin.com/in/sebastien-levy-59826aa0) 
