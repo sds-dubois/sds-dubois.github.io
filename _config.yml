@@ -105,6 +105,8 @@ social:
   - title: "github"
     url: "http://bit.do/sdubois_git"
   #  url: "https://github.com/sds-dubois"
+  - title: "graduation-cap" # google scholar
+    url: "http://bit.do/sdubois_scholar"
   - title: "twitter"
     url: "https://twitter.com/_sdubois"
   - title: "envelope"

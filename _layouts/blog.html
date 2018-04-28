@@ -12,16 +12,16 @@
 
     <section id="{{ page.title }}" class="container content-section text-center">
       <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
+        <div>
 
         {{ page.content | markdownify }}
         
-        <table>
+        <table style="margin:auto">
         {% for post in paginator.posts %}
         <tr>
           <td><h4 align="right"><strong>{{ post.date | date_to_string }}</strong></h4>
-          </td><td>
-          <h4 align="left">&nbsp;&nbsp;&nbsp;<a href="{{site.baseurl}}{{post.url}}"><strong >{{ post.title }} </strong> </a></h4> </td>
+          </td><td>&nbsp;&nbsp;&nbsp;</td><td>
+          <h4 align="left"><a href="{{site.baseurl}}{{post.url}}"><strong >{{ post.title }} </strong> </a></h4> </td>
         </tr>
         <!--<tr>-->
         <!--<td></td>-->
