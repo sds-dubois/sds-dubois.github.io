@@ -9,7 +9,7 @@ I worked on this project with [Sebastien Levy](https://fr.linkedin.com/in/sebast
 and [Felix Crevier](https://www.linkedin.com/in/felixcrevier) for Stanford's CS221 course 
 [Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221/).
 Our goal was to implement AI-based strategies for a tailor-made game of multiplayer snake, 
-inspired by the popular online game [slither.io](http://slither.io/).
+inspired by the popular online game *slither.io*.
 
 ### Overview
 
@@ -28,7 +28,7 @@ very dependent on the strategies used for training.
 Our full report can be found [here](http://bit.do/snake_ai), and all our code is available on
 [GitHub](https://github.com/sds-dubois/snake.ai). I've mostly worked on the reinforcement 
 learning part, so that's what I will focus on in this post. In addition, I've continued working 
-on this project since we handed out the report so not everything I'm presenting here is detailed in there.
+on this project since we handed out the report so not everything I'm presenting here was detailed in there.
 
 <center>
     <img src="https://sds-dubois.github.io/img/projects/snake_game.gif">
