@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: "Deep Mining: Auto-tuning machine learning pipelines"
-featured: true
+featured: false
 post-preview: I was a visiting student at MIT and worked on a project that we called *Deep Mining*. The goal was to automatically tune Machine Learning pipelines' hyper-parameters through a repeated process of candidate sampling and evaluation. While working on this project, I mainly focused on Bayesian optimization methods and on Gaussian Process-based regression. In particular I developed a new regression algorithm, a *non-parametric Gaussian Copula Process*, that we used to better model the performance of a pipeline given its hyper-parameters. In addition, since the earlier stages of the pipeline can be computationally expensive (data processing, feature engineering..), I also worked on finding efficient methods to estimate pipeline performance via sub sampling.
 ---
 
