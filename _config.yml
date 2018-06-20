@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "http://sds-dubois.github.io"
+url: "https://sds-dubois.github.io"
 baseurl: ""
 google-tracking-id: "UA-72300346-1"
 
@@ -13,7 +13,7 @@ author: "Sebastien Dubois"
 lang: "en"
 title: "Sebastien Dubois"
 favicon: "/img/ico.ico"
-description: "Personal website of Sebastien Dubois."
+description: "Sebastien Dubois - Personal website"
 keywords: "sebastien, dubois, stanford, polytechnique, mit"
 
 ################
