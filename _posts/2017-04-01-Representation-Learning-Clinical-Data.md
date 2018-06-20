@@ -33,9 +33,9 @@ One additional challenge to our use case is that for de-identification purposes,
 as a sequence of un-ordered collection of words (notes are ordered by timestamps accross visits).
 
 We investigated two seperate approaches:  
-- embed and aggregate: compute word level embeddings that are aggregated at the note level first, and then at the patient level. Embeddings are computed with Glove 
+\- embed and aggregate: compute word level embeddings that are aggregated at the note level first, and then at the patient level. Embeddings are computed with Glove 
 or word2vec after re-generating notes with words in a random order.  
-- using recurrent neural nets (RNN) whose inputs are a sequence of bag-of-words vectors representing the clinical notes for a given patient’s input era. This approach jointly learns word-, note-, and patient-level embeddings through weak supervision of high-level disease codes.  
+\- using recurrent neural nets (RNN) whose inputs are a sequence of bag-of-words vectors representing the clinical notes for a given patient’s input era. This approach jointly learns word-, note-, and patient-level embeddings through weak supervision of high-level disease codes.  
 
 Both approaches showed compelling advantages over BOW and topic model representations across a range of tasks and cohort sizes. The embed-and-aggregate method in particular represents a sweet spot in the performance/complexity trade-off because it is remarkably simple to learn, distribute and use, requiring little in the way of specialized hardware or software.   
 
