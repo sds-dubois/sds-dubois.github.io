@@ -57,10 +57,18 @@ disqus-shortname: False
 ###############
 
 events:
+  - image: "/img/career/airbnb2.png"
+    date: "Nov. 2018 - current"
+    location: "Airbnb"
+    description: "Software Engineer"
+  - image: "/img/career/eliot_logo2.png"
+    date: "May 2017 - Nov. 2018"
+    location: "Eliot - [www.eliotandme.com](https://www.eliotandme.com)"
+    description: "Co-Founder"
   - image: "/img/career/ta.jpeg"
     date: "June 2016 - Aug. 2016"
     location: "TripAdvisor"
-    description: "Software Engineer Intern"
+    description: "Software Engineer"
   - image: "/img/career/SU2.jpg"
     location: "Stanford University"
     date: "Sept. 2015 - April 2017"
@@ -80,10 +88,10 @@ events:
     date: "Sept. 2012 - Aug. 2015"
     location: "Ecole Polytechnique"
     description: "Diplome d'Ingenieur (MS) in Computer Science and Applied Mathematics"
-  - image: "/img/career/hoche2.png"
-    date: "Sept. 2010 - June 2012"
-    location: "Lycee Hoche"
-    description: "Classes Preparatoires"
+  # - image: "/img/career/hoche2.png"
+  #   date: "Sept. 2010 - June 2012"
+  #   location: "Lycee Hoche"
+  #   description: "Classes Preparatoires"
 
 # # First image of the Career timeline
 # career-img: "/img/career/eiffel2.png"
@@ -129,7 +137,7 @@ social:
 
 pages_list:
   About: 'about'
-  Resume: 'resume'
+  # Resume: 'resume'
   Projects: 'projects'
   Career: 'career'
   Contact: 'contact'
